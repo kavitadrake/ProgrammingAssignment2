@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## To start I'm reminding myself how to use Github.
+## functions doPut comments here that give an overall description of what your
 
 ## Write a short comment describing this function
 
